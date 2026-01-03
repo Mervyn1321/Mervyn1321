@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Mervyn1321
+<a href="https://www.linkedin.com/in/mervyn-regala-64ba72330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Mervyn1321/Mervyn1321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year college student at Caraga State University with a deep interest in software and hardware technologies, motivated by a passion for building, analyzing, and solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic journey in computer engineering has cultivated a passion for software and hardware development, motivating me to pursue opportunities where I can apply problem-solving skills to real-world engineering challenges.
+
+## Skills / Tools
+
+| Skill / Competency                            | Associated Project / Tool                                           |
+| --------------------------------------------- | ------------------------------------------------------------------- |
+| Object-Oriented Programming (OOP)             | GUI-Based Minimart System (Java/Python)                             |
+| CLI Application Development                   | CLI Point of Sale (POS) System (C/C++/Python)                       |
+| GUI Application Development                   | Student Information System (Tkinter)                                |
+| Software Debugging and Testing                | All Software Projects (VS Code)                                     | 
+| Data Handling and System Logic Implementation | POS System / Student Information System                             |
+| Inverter Design and Implementation            | Power Inverter Project (MOSFETs, Relays, Fuses)                     |
+| Logic-Controlled Protection Circuit Design    | Inverter Protection System (Logic Gates, Control ICs)               |
+| Hardware Testing and Prototyping              | Inverter and Protection Circuit (Multimeter, Breadboard, PCB Tools) |
+| Software–Hardware Integration                 | Logic-Controlled Inverter Protection (Arduino)                      |
+
+
+
+## Projects
+- MECERG
